@@ -6,6 +6,30 @@ This is a simple Flutter app that allows you to count up or down using buttons. 
 
 To use this application you need to have flutter installed on your machine.
 
+<ol>
+<li>Clone this repository: 
+
+```
+git clone https://github.com/Saber-Haste/counter-app-flutter.git
+```
+</li>
+<li>
+Navigate to the project directory
+
+```
+cd counter-app-flutter
+```
+</li>
+<li>
+Run the app (Choose any browser)
+
+```
+flutter run
+```
+</li>
+</ol>
+
+
 ## Features
 
 <li>Increment count with the "+" button</li>
