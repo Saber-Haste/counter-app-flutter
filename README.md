@@ -12,5 +12,6 @@ To use this application you need to have flutter installed on your machine.
 <li>Decrement count with the "-" button</li>
 <li>Reset count to zero with the "Reset" button</li>
 
-## Preview
-<img src="https://lh4.googleusercontent.com/dpZcEV7YpHgAMQjqLpUup_MazX5X1IPjFvw-0nli2e-K-E9ZBBBZbbX0PKHIRjcQllg=w2400" height="500"  >
+## Screenshots
+<img src="https://lh3.googleusercontent.com/5ko13MKyRvPEZ9rO5EIQaHmw3aEV0j_LK0kVjCo-ARpguuhwWEM7KC4JGDcE7Vx4cZQ=w2400" height="500"  >
+
